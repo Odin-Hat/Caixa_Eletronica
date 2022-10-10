@@ -15,5 +15,3 @@ Onde esse ATM_simulator.py é o nome do nosso arquivo que será criado o execut�
 
 Isso diz para o programa que vamos transformar os nossos arquivos em uma única coisa. 
 
-
-<a href="https://pyinstaller.org/en/stable/">pyinstaller</a>
